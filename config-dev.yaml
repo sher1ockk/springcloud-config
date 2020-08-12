@@ -1,2 +1,2 @@
-config
-  info: "hello config"
+server:
+  port: 2222
